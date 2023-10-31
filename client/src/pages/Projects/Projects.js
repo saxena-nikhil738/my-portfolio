@@ -94,7 +94,7 @@ const Projects = () => {
                   <div className="ad-title m-auto">
                     <h5 className="text-uppercase">Portfolio</h5>
                   </div>
-                  <a className="ad-btn" href="https://portfolio-4fcc.onrender.com/">
+                  <a className="ad-btn" href="https://my-portfolio-ik9o.onrender.com/">
                     View
                   </a>
                 </div>
